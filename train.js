@@ -15,7 +15,7 @@
     "delay": 15
   },
   {
-    "t_Name": "Hyd Exp",
+    "t_Name": "Hyderabad Exp",
     "t_Number": "2341",
     "d_Time": "23:55",
     "a_Time": "05:55",
